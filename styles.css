@@ -1,0 +1,19 @@
+.centerText {
+    text-align: center;
+    padding: 1em;
+}
+
+video {
+    max-width: 80%;
+    height: auto;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.story {
+    margin-left: 10%;
+    margin-right: 10%;
+}
